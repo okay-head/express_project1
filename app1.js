@@ -1,6 +1,3 @@
-// get object with a given id
-// A rest API which returns some object
-
 const express = require('express')
 const app = new express()
 let data = require('./data')
