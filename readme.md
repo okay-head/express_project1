@@ -3,7 +3,13 @@
 ## Instructions
 
 Download files then run 
-`npm install`
+```bash
+npm install
+```
+Fire up the server
+```bash
+npm run dev
+```
 
 ## Operations
 #### GET
